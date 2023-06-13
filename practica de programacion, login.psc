@@ -5,7 +5,7 @@ Algoritmo LoginPseint
 	Definir usuario, contrasena, inputUsuario, inputContrasena Como Caracter;
 	usuario <- "ashley"
 	contrasena <- "26112006"
-	intentos <-3
+	intentos <-4
 	Repetir
 		
 		Escribir "Ingrese su nombre de usuario:";
